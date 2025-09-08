@@ -1,1 +1,2 @@
-Répo utilisé lors d'un TP d'introduction à git
+Répo utilisé lors d'un TP d'introduction à git.
+Répo de Amory Antao
